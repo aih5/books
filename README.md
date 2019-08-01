@@ -18,6 +18,7 @@
 - [JavaScript权威指南](http://note.youdao.com/)
 - [你不知道的JavaScript(上)](http://note.youdao.com/)
 - [你不知道的JavaScript(中)](http://note.youdao.com/)
+- [你不知道的JavaScript(下)](./js/NoJS3.md)
 - 
 ### 产品
 - [人人都是产品经理](http://note.youdao.com/)
@@ -37,3 +38,6 @@
 
 ### 记录片
 - [看见](http://note.youdao.com/)
+
+### 工作
+- [重来-更为简单有效的商业思维](./work/rework.md)-贾森.弗里德
